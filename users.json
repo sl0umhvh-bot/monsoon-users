@@ -1,1 +1,5 @@
-
+{
+  "trigger": "12345",
+  "friend1": "qwerty",
+  "friend2": "password"
+}
